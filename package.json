@@ -1,0 +1,16 @@
+{
+  "name": "0003_lineacomando",
+  "version": "0.0.1",
+  "description": "Paquete de prueba de linea de comandos",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "base7": "node app --base=7"
+  },
+  "author": "Giordano Santos",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.3.1"
+  }
+}
