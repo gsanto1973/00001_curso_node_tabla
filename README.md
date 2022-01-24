@@ -1,5 +1,5 @@
 # Notas
-Ejericio de la tabla de multiplicar
+Ejercicio de la tabla de multiplicar
 ```
 Opciones:
       --help     Muestra ayuda                                        [booleano]
